@@ -89,7 +89,7 @@ Config = {
 ## Dependencies
 
 - **[QBox Framework](https://github.com/Qbox-project)**
-- **ox_inventory** (or any other inventory system that supports stashes)
+- **[ox_inventory](https://github.com/overextended/ox_inventory)**
 - **InteractSound** (for sound effects)
 
 ## Contributing
