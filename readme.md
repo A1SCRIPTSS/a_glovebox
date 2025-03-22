@@ -2,8 +2,6 @@
 
 Readme.md Created by AI
 
-This repository contains a script for managing vehicle gloveboxes in a FiveM server using the QBox framework. The system allows players to interact with the glovebox of their vehicle, store items, and retrieve them. The glovebox can be "hacked" to gain access, and there is a cooldown mechanism to prevent abuse.
-
 ## Features
 
 - **Vehicle Glovebox Access:** Players can access the glovebox of their vehicle by pressing a keybind (M by default).
